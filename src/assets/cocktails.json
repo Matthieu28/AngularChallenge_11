@@ -1,0 +1,22 @@
+[
+    {
+        "nom": "Gin Fizz",
+        "prix": 6,
+        "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/81650_origin-scaled-295x200.jpg"
+      },
+      {
+        "nom": "Mojito",
+        "prix": 5,
+        "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/80255_origin-scaled-300x200.jpg"
+      },
+      {
+        "nom": "Fruit Punch",
+        "prix": 7.5,
+        "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/118814_origin-133x200.jpg"
+      },
+      {
+        "nom": "Pick me up",
+        "prix": 10,
+        "image": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/118527_origin-300x200.jpg"
+      }
+]

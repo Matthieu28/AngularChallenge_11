@@ -1,0 +1,18 @@
+.container_cocktail {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.container_cocktail > div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.container_cocktail > div > img {
+  height: 13rem;
+  width: 20rem;
+  background-size: contain;
+}
